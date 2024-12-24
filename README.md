@@ -84,7 +84,7 @@ This codebase inherits all licenses from the public release of [Mask2Former](htt
 @article{wang2023test,
   title={Test-time training on video streams},
   author={Wang, Renhao and Sun, Yu and Tandon, Arnuv and Gandelsman, Yossi and Chen, Xinlei and Efros, Alexei A and Wang, Xiaolong},
-  journal={arXiv preprint arXiv:2307.05014},
+  journal={JMLR},
   year={2023}
 }
 ```
