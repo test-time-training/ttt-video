@@ -11,7 +11,7 @@ See [installation instructions](INSTALL.md).
 ## Datasets
 We release COCO-Videos, a new dataset for instance and panoptic segmentation which follows the COCO labeling format. We also rely on semantic-level labels in the [KITTI-STEP](https://www.cvlibs.net/datasets/kitti/eval_step.php) dataset for evaluation on semantic segmentation.
 <br>
-All datasets can be [downloaded here](https://berkeley.box.com/s/8ieod46tjh4k2n1lyid6qhap9qsy947s) and should subsequently be unzipped to the path specified under the `$DETECTRON2_DATASETS` environment variable (see [installation instructions](INSTALL.md)).
+All datasets can be [downloaded here](https://drive.google.com/file/d/1EmIVG_UrjIrC4hPUiBbPCPdZEoA2t8Ur/view?usp=sharing) and should subsequently be unzipped to the path specified under the `$DETECTRON2_DATASETS` environment variable (see [installation instructions](INSTALL.md)).
 
 ## Checkpoints
 
